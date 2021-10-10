@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj na stronie aktualności projektu Studencki Niezbędnik
 
 You can use the [editor on GitHub](https://github.com/kuba2915/studenckiniezbednik/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
