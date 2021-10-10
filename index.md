@@ -1,37 +1,39 @@
-## Witaj na stronie aktualności projektu Studencki Niezbędnik
+## Studencki Niezbędnik
 
-You can use the [editor on GitHub](https://github.com/kuba2915/studenckiniezbednik/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Witaj na stronie aktualności projektu Studencki Niezbędnik
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ta strona została wygenerowana z użyciem Github Pages
 
-### Markdown
+### Aktualności 15.10 
+TBD
+_______________________
+#### Funkcjonalności
+- czat
+- zgłaszanie raportów z podziałem na kategorię:
+  - chęć piwa (gdzie i kiedy)
+  - uciążliwy sąsiad
+  - pełny parking
+  - barter usług (+zgłoszenie)
+- Odpowiedź na zgłoszenie
+- autentykacja i autoryzacja użytkowników
+- ranking na bazie lajków i ocen
+- komentarze
+- oceny
+- reputacja użytkownika
+- Grupy studenckie + role
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Role potrzebne w projekcie
+- Tester - 2
+- Dokumentacja/procedury - 2 1/3
+- Backend - 6 1/2 (.net 3, java 5, node.js 1)
+- Bazy + zarządzania - 2
+- Administrator - 2
+- Grafika - 1/3
+- Frontend - 2
+- Tester automatyzacji - 1
 
-```markdown
-Syntax highlighted code block
+#### Zastosowanie aplikacji
+TBD
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuba2915/studenckiniezbednik/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Członkowie projektu
+TBD
