@@ -4,7 +4,7 @@ Witaj na stronie aktualności projektu Studencki Niezbędnik
 Ta strona została wygenerowana z użyciem Github Pages
 
 ### Aktualności 15.10 
-Wstępna dokumentacja projektu w trakcie
+Wstępna dokumentacja projektu w trakcie realizacji
 
 #### Funkcjonalności na ocenę 4
 - autentykacja i autoryzacja użytkowników
